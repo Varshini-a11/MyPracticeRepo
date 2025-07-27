@@ -1,0 +1,39 @@
+/* App.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 2rem;
+  background-color: #e3f2fd;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #1565c0;
+}
+
+.score-card {
+  background-color: white;
+  padding: 1.5rem;
+  margin: 2rem auto;
+  width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.score-card h2 {
+  color: #0d47a1;
+  margin-bottom: 1rem;
+}
+
+.score-card p {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
